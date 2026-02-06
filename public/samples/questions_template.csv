@@ -1,0 +1,10 @@
+question_text,question_type,options,required,placeholder
+"What is your full name?",text,,true,"Enter your full name"
+"What is your age?",number,,true,"Enter your age"
+"What is your email?",email,,true,"Enter your email address"
+"Select your gender",mcq,"Male,Female,Other",true,""
+"Choose your preferred languages",checkbox,"English,Hindi,Tamil,Telugu,Bengali",false,""
+"Select your state",dropdown,"Maharashtra,Delhi,Karnataka,Tamil Nadu,Gujarat",true,""
+"Describe your medical history",textarea,,false,"Provide any relevant medical history"
+"What is your date of birth?",date,,true,""
+"Enter your phone number",phone,,true,"+91"
